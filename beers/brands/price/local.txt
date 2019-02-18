@@ -1,5 +1,5 @@
-kf
-tuborg
-rc
-knockout
-carlsberg
+kf=120
+tuborg=100
+rc=90
+knockout=130
+carlsberg=140
