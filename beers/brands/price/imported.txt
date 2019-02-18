@@ -1,0 +1,5 @@
+hoegarden=200
+bira=189
+corona=210 
+weiss=170
+
